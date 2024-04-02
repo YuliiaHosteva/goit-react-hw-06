@@ -11,5 +11,16 @@
   padding-left: 16px;
   margin-top: 4px;
   background-color:rgb(163, 202, 207);
+  border-radius: 8px;
 
+
+}
+
+@media screen and (max-width: 767px) {
+  .input {
+    width: 300px;
+    
+
+  
+  }
 }
